@@ -1,0 +1,6 @@
+50 Celsius 122 Fahrenheit
+5 Celsius 41 Fahrenheit
+8 Celsius 46.4 Fahrenheit
+50 Fahrenheit 10 Celsius
+80 Fahrenheit 26.67 Celsius
+There was no temperature identifier

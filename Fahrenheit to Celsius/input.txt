@@ -1,0 +1,6 @@
+50 Celsius
+5 Celsius
+8 Celsius
+50 Fahrenheit
+80 Fahrenheit
+10 Last
