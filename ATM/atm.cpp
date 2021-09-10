@@ -82,6 +82,7 @@ int main()
 		// this happens if the user enters an invalid input (choice)
 		else 
 			cout << "Please chooose a valid option." << endl;
+			break;
 	} while (choice != 4);
 
 
