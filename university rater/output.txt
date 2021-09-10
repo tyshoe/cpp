@@ -1,0 +1,3 @@
+University	Rating		City		State
+-------------	-------------	-----------	--------------
+MSU               0              Starkville     MS
